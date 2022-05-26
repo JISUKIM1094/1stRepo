@@ -8,5 +8,11 @@
 </head>
 <body>
 	<h2>첫번째 깃 연동 테스트! </h2>
+	<table>
+		<tr>
+			<td>2022-05-26</td> 
+			<td>2교시! 깃연동 완 료~</td>
+		</tr>
+	</table>
 </body>
 </html>
